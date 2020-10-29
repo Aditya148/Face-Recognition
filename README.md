@@ -5,7 +5,7 @@ Face Recognition using Python's OpenCV and TensorFlow
 
 ## Getting Started
 
-### Python Packages to vbe installed:
+### Python Packages to be installed:
 * numpy: <strong>pip install numpy</strong>
 * matplotlib: <strong>pip install matplotlib</strong>
 * openCV: <strong>pip install opencv-python</strong>
