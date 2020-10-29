@@ -50,3 +50,5 @@ if(pred[0]<b>[0]</b>0.5):
             name=<b>'Aditya'</b><br>
 
 <b>NOW RUN THE API AND YOU CAMERA WILL POP UP AND IT CAN NOW DETECT YOUR FACE</b>
+<br>
+<b>Leave a Star if you like the code :-)</b>
